@@ -61,14 +61,12 @@ The aim is to identify patterns to understand the driving factors (or driver var
 	Public bankruptcy records (1 or 2)
 - Recommendations 2 from the analysis :
 <!---->
-	Higher interest rate (above 13%)
-	Higher revolving line utilization rate (above 58%)
-	Repayment term (5 years)
-	Loan grade & sub-grade (D to G)
-	Missing employment record
-	Loan purpose (small business, renewable energy, educational)
-	Derogatory public records (1 or 2)
-	Public bankruptcy records (1 or 2)
+	High loan amount & interest rate for lower income group
+	High installment and longer repayment term
+	Home ownership (other) and loan purpose (car, moving or small business)
+	Residential state and loan purpose
+	Income group and loan purpose
+
 - Recommendations 3 from the analysis:
 <!---->
 	-Higher loan amount (above 16K)
