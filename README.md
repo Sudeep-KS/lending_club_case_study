@@ -85,7 +85,7 @@ The aim is to identify patterns to understand the driving factors (or driver var
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by [@Sudeep-KS] - feel free to contact me!
+Created by [@Sudeep.ks@hotmail.com] - feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
