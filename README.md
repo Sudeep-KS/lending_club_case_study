@@ -49,7 +49,7 @@ The aim is to identify patterns to understand the driving factors (or driver var
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 ## Conclusions
-- Recommendations 1 from the analysis :
+- Major Impact for Loan Defaults :
 <!---->
 	Higher interest rate (above 13%)
 	Higher revolving line utilization rate (above 58%)
@@ -59,7 +59,7 @@ The aim is to identify patterns to understand the driving factors (or driver var
 	Loan purpose (small business, renewable energy, educational)
 	Derogatory public records (1 or 2)
 	Public bankruptcy records (1 or 2)
-- Recommendations 2 from the analysis :
+- Multifactors for Loan Defaults :
 <!---->
 	High loan amount & interest rate for lower income group
 	High installment and longer repayment term
@@ -67,7 +67,7 @@ The aim is to identify patterns to understand the driving factors (or driver var
 	Residential state and loan purpose
 	Income group and loan purpose
 
-- Recommendations 3 from the analysis:
+- Minor Impact for Loan Defaults:
 <!---->
 	-Higher loan amount (above 16K)
 	-Higher installment amount (above 327)
