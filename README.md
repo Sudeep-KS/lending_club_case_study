@@ -49,7 +49,8 @@ The aim is to identify patterns to understand the driving factors (or driver var
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 ## Conclusions
-- Recommendations 1 from the analysis
+- Recommendations 1 from the analysis :
+<!---->
 	Higher interest rate (above 13%)
 	Higher revolving line utilization rate (above 58%)
 	Repayment term (5 years)
@@ -58,7 +59,8 @@ The aim is to identify patterns to understand the driving factors (or driver var
 	Loan purpose (small business, renewable energy, educational)
 	Derogatory public records (1 or 2)
 	Public bankruptcy records (1 or 2)
-- Recommendations 2 from the analysis
+- Recommendations 2 from the analysis :
+<!---->
 	Higher interest rate (above 13%)
 	Higher revolving line utilization rate (above 58%)
 	Repayment term (5 years)
@@ -67,13 +69,14 @@ The aim is to identify patterns to understand the driving factors (or driver var
 	Loan purpose (small business, renewable energy, educational)
 	Derogatory public records (1 or 2)
 	Public bankruptcy records (1 or 2)
-- Recommendations 3 from the analysis
-	Higher loan amount (above 16K)
-	Higher installment amount (above 327)
-	Lower annual income (below 37K)
-	Higher debt to income ratio (above 15%)
-	Applicant’s address state (NV, SD, AK, FL, etc.)
-	Loan issue month (Dec, May, Sep)
+- Recommendations 3 from the analysis:
+<!---->
+	-Higher loan amount (above 16K)
+	-Higher installment amount (above 327)
+	-Lower annual income (below 37K)
+	-Higher debt to income ratio (above 15%)
+	-Applicant’s address state (NV, SD, AK, FL, etc.)
+	-Loan issue month (Dec, May, Sep)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
