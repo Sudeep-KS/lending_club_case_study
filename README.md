@@ -39,12 +39,12 @@ The aim is to identify patterns to understand the driving factors (or driver var
 	Filter and optimize entries/rows if required
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-## Univariate Cleaning
+## Univariate Analysis
 - As data is cleaned and prepared, we will now try to understand the correlation between the different numeric fields
 - We now find correlation between different values and fields.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-## Bivariate Cleaning
+## Bivariate Analysis
 - We now try to find correlation and analysis of two or more variables
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
