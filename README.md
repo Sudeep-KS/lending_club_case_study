@@ -91,7 +91,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@Sudeep-ks] - feel free to contact me!
+Created by [@Sudeep-KS] - feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
